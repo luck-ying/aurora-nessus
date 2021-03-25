@@ -2,8 +2,6 @@
 import hashlib, hmac, json, os, sys,re,time,requests,xlwt,zipfile,shutil,getopt
 from datetime import datetime
 from lxml import etree
-a=AKIDyxhCNGXYIky2oNSoBOJwODmHAoHUKisn
-b=mfLuCCzXqqwoX02sSlmbIrcnkSuWu30d
 data=[]
 result=[]
 ports=[]
